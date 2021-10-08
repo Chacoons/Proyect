@@ -33,6 +33,6 @@ _En este portafolio podrán observar lo que es un ejemplo de media, donde se ve 
 lo que es el inicio y registro de una aplicación escolar igualmente acoplado para un télefono, un iPad y una computadora._
 
  ## OBJETIVOS FUTUROS
- | Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
+ | ORGANIZACIÓN | INVESTIGACIÓN  | PROPÓSITO |
+| :------------: |:---------------:| :-----:|
 | col 3 is      | some wordy text | $1600 |
