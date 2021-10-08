@@ -19,7 +19,8 @@
 
 
 ### OBJETIVOS
-- [x] Aplicar correctamente lo aprendido en clase.
+- [x] ![image](https://user-images.githubusercontent.com/77393842/136632500-e8fe51b1-e6fe-4fce-9a78-6e49b1ba8124.png)
+Aplicar correctamente lo aprendido en clase.
 - [x] Trabajar de manera ordenada y con tiempo cada trabajo.
 - [x] Practicar los temas en los que encuentre dificultad.
 
