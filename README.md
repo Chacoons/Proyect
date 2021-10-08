@@ -29,6 +29,7 @@
 `<02_login>` : <https://chacoons.github.io/LoginDesktop/>
 
 ### CARACTERÍSTICAS
-_En este portafolio podran una página que es la home page donde se encuentran botones para dirigirte al glosario, y un botón para dirigirte hacia mi perfil. En el glosario encontrarás las definiciones y ejemplos de las etiquetas vistas en clase para realizar el mismo._
+_En este portafolio podrán observar lo que es un ejemplo de media, donde se ve cómo una página se acopla a un télefono, un iPad o una computadora, también encontrarán 
+lo que es el inicio y registro de una aplicación escolar igualmente acoplado para un télefono, un iPad y una computadora._
 
  ## OBJETIVOS FUTUROS
