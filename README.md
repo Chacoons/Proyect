@@ -19,7 +19,7 @@
 
 
 ## OBJETIVOS
-- [x]Aplicar correctamente lo aprendido en clase.
+- [x] Aplicar correctamente lo aprendido en clase.
 - [x] Trabajar de manera ordenada y con tiempo cada trabajo.
 - [x] Practicar los temas en los que encuentre dificultad.
 
