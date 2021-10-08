@@ -7,8 +7,9 @@
 * Diseño Computarizado
 * IV bachillerato en Ciencias y Letras con Orientación en Diseño Gráfico
 
-- [x] GFM task list 1
-- [x] GFM task list 2
-- [ ] GFM task list 3
+### OBJETIVOS
+- [x] Aplicar correctamente lo aprendido en clase.
+- [x] Trabajar de manera ordenada y con tiempo cada trabajo.
+- [x] Practicar los temas en los que encuentre dificultad.
 
 
