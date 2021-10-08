@@ -25,6 +25,8 @@
 
  ### DOCUMENTACIÓN      
 `<EjemploMedia>` : <https://chacoons.github.io/media/>
+`<wireframe 01_splash>` : <https://chacoons.github.io/desktopSlash/>
+`<02_login>` : <https://chacoons.github.io/LoginDesktop/>
 
 ### CARACTERÍSTICAS
 _En este portafolio podran una página que es la home page donde se encuentran botones para dirigirte al glosario, y un botón para dirigirte hacia mi perfil. En el glosario encontrarás las definiciones y ejemplos de las etiquetas vistas en clase para realizar el mismo._
