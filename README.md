@@ -1,7 +1,7 @@
 ![PORTADA](https://github.com/Chacoons/Proyect/blob/main/PORTADA%20(1).png)
 
 
-### ANTEPORTADA
+## ANTEPORTADA
 * Colegio Santa Catlina Laboure
 * Sara Abigail Chacón Pérez
 * Diseño Computarizado
@@ -18,21 +18,21 @@
 8. Objetivos futuros
 
 
-### OBJETIVOS
+## OBJETIVOS
 - [x]Aplicar correctamente lo aprendido en clase.
 - [x] Trabajar de manera ordenada y con tiempo cada trabajo.
 - [x] Practicar los temas en los que encuentre dificultad.
 
- ### DOCUMENTACIÓN      
+ ## DOCUMENTACIÓN      
 `<EjemploMedia>` : <https://chacoons.github.io/media/>  <br>
 `<wireframe 01_splash>` : <https://chacoons.github.io/desktopSlash/> <br>
 `<02_login>` : <https://chacoons.github.io/LoginDesktop/>
 
-### CARACTERÍSTICAS
+## CARACTERÍSTICAS
 _En este portafolio podrán observar lo que es un ejemplo de media, donde se ve cómo una página se acopla a un télefono, un iPad o una computadora, también encontrarán 
 lo que es el inicio y registro de una aplicación escolar igualmente acoplado para un télefono, un iPad y una computadora._
 
  ## OBJETIVOS FUTUROS
  | ORGANIZACIÓN | INVESTIGACIÓN  | PROPÓSITO |
 | :------------: |:---------------:| :-----:|
-| col 3 is      | some wordy text | $1600 |
+| Organizar los proyectos a realizar| Investigar más acerca de los temas vistos | Trabajar de una manera más creativa y dedicada |
