@@ -7,5 +7,8 @@
 * Diseño Computarizado
 * IV bachillerato en Ciencias y Letras con Orientación en Diseño Gráfico
 
+- [x] GFM task list 1
+- [x] GFM task list 2
+- [ ] GFM task list 3
 
 
