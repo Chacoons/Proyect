@@ -19,8 +19,7 @@
 
 
 ### OBJETIVOS
-- [x] ![image](https://user-images.githubusercontent.com/77393842/136632500-e8fe51b1-e6fe-4fce-9a78-6e49b1ba8124.png)
-Aplicar correctamente lo aprendido en clase.
+- [x]Aplicar correctamente lo aprendido en clase.
 - [x] Trabajar de manera ordenada y con tiempo cada trabajo.
 - [x] Practicar los temas en los que encuentre dificultad.
 
@@ -34,3 +33,6 @@ _En este portafolio podrán observar lo que es un ejemplo de media, donde se ve 
 lo que es el inicio y registro de una aplicación escolar igualmente acoplado para un télefono, un iPad y una computadora._
 
  ## OBJETIVOS FUTUROS
+ | Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
