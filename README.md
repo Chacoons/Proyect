@@ -24,8 +24,8 @@
 - [x] Practicar los temas en los que encuentre dificultad.
 
  ### DOCUMENTACIÓN      
-`<EjemploMedia>` : <https://chacoons.github.io/media/>
-`<wireframe 01_splash>` : <https://chacoons.github.io/desktopSlash/>
+`<EjemploMedia>` : <https://chacoons.github.io/media/>  <br>
+`<wireframe 01_splash>` : <https://chacoons.github.io/desktopSlash/> <br>
 `<02_login>` : <https://chacoons.github.io/LoginDesktop/>
 
 ### CARACTERÍSTICAS
